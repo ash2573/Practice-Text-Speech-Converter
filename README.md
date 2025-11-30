@@ -102,12 +102,6 @@ Feel free to:
 
 ---
 
-## 📝 License
-
-This project is licensed under the **MIT License** — see the `LICENSE` file for details.
-
----
-
 ## ⭐ Acknowledgement
 
 This project was created as part of my journey to understand the **core fundamentals** of web development.  
